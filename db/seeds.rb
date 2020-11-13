@@ -9,3 +9,13 @@
 Ingredient.create(name: "lemon")
 Ingredient.create(name: "ice")
 Ingredient.create(name: "mint leaves")
+
+Cocktail.create(name: "Beer")
+Cocktail.create(name: "Red Wine")
+Cocktail.create(name: "White Wine")
+Cocktail.create(name: "Rosé")
+Cocktail.create(name: "Champagne")
+Cocktail.create(name: "Sparkling Wine")
+Cocktail.create(name: "Whiskey")
+Cocktail.create(name: "Wodka Soda")
+Cocktail.create(name: "Gin Tonic")
